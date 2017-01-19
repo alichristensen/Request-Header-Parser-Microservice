@@ -1,0 +1,22 @@
+{
+  "name": "request-header-parser-microservice",
+  "version": "1.0.0",
+  "description": "Returns IP address, language and operating system for the browser.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alichristensen/Request-Header-Parser-Microservice.git"
+  },
+  "author": "Ali Christensen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alichristensen/Request-Header-Parser-Microservice/issues"
+  },
+  "homepage": "https://github.com/alichristensen/Request-Header-Parser-Microservice#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
