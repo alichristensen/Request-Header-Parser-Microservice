@@ -1,9 +1,10 @@
 {
   "name": "request-header-parser-microservice",
   "version": "1.0.0",
-  "description": "Returns IP address, language and operating system for the browser.",
+  "description": "FreeCodeCamp Backend API Projects",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
